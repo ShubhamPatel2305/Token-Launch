@@ -59,7 +59,7 @@ const Header = ({
             <div className="header__left ul_li">
               <div className="header__logo">
                 <a href="/">
-                  <img src="assets/img/logo/logo.svg" alt="" /> Token Launch
+                  <img src="assets/img/logo/logo.svg" alt="" />
                 </a>
               </div>
             </div>
